@@ -41,7 +41,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -71,7 +71,7 @@ github_username: LucasAugustoTM # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: SuperRitz4 # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: Lucas Augusto Tavares dee Moura # your LinkedIn user name
+linkedin_username: Lucas Augusto Tavares de Moura # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
