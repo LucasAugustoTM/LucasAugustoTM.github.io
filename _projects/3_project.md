@@ -23,4 +23,4 @@ Help the Piñata avoid the goblins and obstacles, so it can have its revenge!
 </div>
 
 This game was made in 48 hours for GMTK Game Jam 2023, and I contributed as Game/Level Designer and Programmer. It placed #335 overall among more than 6000 submissions!
-Check it out on [itch.io](https://lumanzano.itch.io/pinata-revengeance/)!
+[Check it out on itch.io!](https://lumanzano.itch.io/pinata-revengeance/)
