@@ -24,7 +24,7 @@ Control the ship by moving the helm with your hands, avoid the obstacles and rea
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/pjvr1.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/pjvr2.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
