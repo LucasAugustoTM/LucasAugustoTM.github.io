@@ -1,25 +1,14 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Pinãta Revengeance
+description: GMTK Game Jam 2023 submission
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
-category: work
+category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The Piñata broke free and now it wants revenge on the goblins.
+Help the Piñata avoid the goblins and obstacles, so it can have its revenge!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,9 +33,7 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+This game was made in 48 hours for GMTK Game Jam 2023, and I contributed as Game/Level Designer and Programmer. It placed #335 overall among more than 6000 submissions!
 
 
 <div class="row justify-content-sm-center">
