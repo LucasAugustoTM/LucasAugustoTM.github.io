@@ -4,8 +4,8 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Lucas
-middle_name: Augusto
-last_name: T. de Moura
+middle_name: T.
+last_name: de Moura
 email: lucas.moura.002@acad.pucrs.br
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Website for Lucas Moura

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Cientista da Computação   #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Computer Scientist   #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
