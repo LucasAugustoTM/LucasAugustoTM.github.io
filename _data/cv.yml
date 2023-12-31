@@ -22,15 +22,15 @@
       institution: Pontifícia Universidade Católica do Rio Grande do Sul, Porto Alegre, Brazil
       year: 2019-2021
       description:
-        - PUCRS-LSA, "Virtual Hardware for the Integration of an MPSoC for Robotics and Autonomous Vehicles Applications” project
-        - PUCRS-USALAB, "Usability Evaluation of Health Products and Health Education project‑The Experience at USALAB-IDEIA/PUCRS” project.
+        - <a href="https://www.lsa-pucrs.com.br/">PUCRS-LSA</a> (Laboratory of Autonomous Systems).
+        - <a href="https://www.pucrs.br/ideia/laboratorios-ideia/usalab/">PUCRS-USALAB</a> (Laboratory of Usability Engineering for Health Products).
 
 
     - title: Front-end and database intern
-      institution: University of Zurich, Zurich, Switzerland
+      institution: Pontifícia Universidade Católica do Rio Grande do Sul, Porto Alegre, Brazil
       year: 2021-2023
       description:
-        - Support in the maintenance and development of the <a href="https://github.com/filipi/onde">”GrandeIDEIA</a> internal data management firmware.
+        - Support in the maintenance and development of the <a href="https://github.com/filipi/onde">GrandeIDEIA</a> internal data management firmware.
 
 - title: Open Source Projects
   type: time_table
