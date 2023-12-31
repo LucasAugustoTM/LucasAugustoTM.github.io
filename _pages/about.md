@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Computer Scientist   #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
