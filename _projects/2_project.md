@@ -10,7 +10,7 @@ category: work
 This Unity project implements an Augmented Reality LASER cutting machine operation guide for mobile systems, developed as the Final Paper for the Bacharel's Degree in Computer Science at PUCRS. The algorithm projects prefabs above specified images in accordance with a user defined order, whene these images are tracked by the smartphone's camera. The images, prefabs/3D models and order can be easily altered in Unity, before building the apk. The order (a .txt file) can be modified at runtime as well.
 
 <div class="row">
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/arguidegif.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
