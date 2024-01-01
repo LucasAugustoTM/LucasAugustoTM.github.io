@@ -17,6 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Recent Computer Science Graduate at PUCRS. Self taught in basic Game Design principles. Digital Games Certification at School of Engineering/PUCRS with focus on computer graphics, Game Design, implementation/programming, narrative/script, computer animation, Unity, Augmented Reality and Virtual Reality. 
+Recent Computer Science Graduate at PUCRS. Digital Games Certification at School of Engineering/PUCRS with focus on computer graphics, Game Design, implementation/programming, narrative/script, computer animation, Unity, Augmented Reality and Virtual Reality. 
 
-Big passion for Game Design, with a dream of working on games. Voice acting hobby, I seek ways of integrating art with my projects.
+Big passion for Game Design, with a dream of working on games. Along with a voice acting hobby, I seek ways of integrating art with my projects.
